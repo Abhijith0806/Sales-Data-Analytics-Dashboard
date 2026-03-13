@@ -70,21 +70,6 @@ Some important insights obtained from the analysis:
 - Technology products contributed the highest sales.
 - Sales showed noticeable growth during certain months, indicating seasonal demand.
 
-Project Structure
-
-sales-data-analytics-dashboard
-│
-├── dataset/
-│   └── superstore.csv
-│
-├── notebook/
-│   └── sales_analysis.ipynb
-│
-├── dashboard/
-│   └── powerbi_dashboard.png
-│
-└── README.md
-
 Future Improvements
 
 Possible future improvements for the project include:
